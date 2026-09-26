@@ -1,2 +1,3 @@
-# vgb
-Vampyrgrevens Borg
+# Vampyrgrevens Borg
+
+![Tronsal](tronsal.webp)
