@@ -1,4 +1,4 @@
-# Vampyrgrevens Borg
+# Billeder til Vampyrgrevens Borg
 
 ## Tronsal
 [![Tronsal](tronsal.webp)](tronsal.webp)
