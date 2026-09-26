@@ -1,3 +1,3 @@
 # Vampyrgrevens Borg
 
-[billeder.md](Billeder) til vampyrgrevens borg
+[Billeder](billeder.md) til vampyrgrevens borg
