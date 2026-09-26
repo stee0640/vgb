@@ -1,3 +1,3 @@
 # Vampyrgrevens Borg
 
-![Tronsal](tronsal.webp)
+[![Tronsal](tronsal.webp)](tronsal.webp)
