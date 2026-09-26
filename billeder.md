@@ -1,6 +1,6 @@
 # Billeder til Vampyrgrevens Borg
 ## Borg
-[![Borg(borg.webp)](borg.webp)
+[![Borg](borg.webp)](borg.webp)
 
 ## Tronsal
 [![Tronsal](tronsal.webp)](tronsal.webp)
