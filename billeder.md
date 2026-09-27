@@ -1,25 +1,33 @@
 # Billeder til Vampyrgrevens Borg
 
-## Borg
-[![Borg](borg.webp)](borg.webp)
+<h2>Borg</h2>
+<img src="borg.webp" alt="Borg" width="500"><br>
+<a href="borg.webp" download>⬇️ Download borg.webp</a>
 
-## Tronsal
-[![Tronsal](tronsal.webp)](tronsal.webp)
+<h2>Tronsal</h2>
+<img src="tronsal.webp" alt="Tronsal" width="500"><br>
+<a href="tronsal.webp" download>⬇️ Download tronsal.webp</a>
 
-## Vagtstue
-[![Vagtstue](vagtstue.webp)](vagtstue.webp)
+<h2>Vagtstue</h2>
+<img src="vagtstue.webp" alt="Vagtstue" width="500"><br>
+<a href="vagtstue.webp" download>⬇️ Download vagtstue.webp</a>
 
-## Fængsel
-[![Fængsel](faengsel.webp)](faengsel.webp)
+<h2>Fængsel</h2>
+<img src="faengsel.webp" alt="Fængsel" width="500"><br>
+<a href="faengsel.webp" download>⬇️ Download faengsel.webp</a>
 
-## Blodløs tjener
-[![Blodløs tjener](blodloes_tjener.webp)](blodloes_tjener.webp)
+<h2>Laboratorium</h2>
+<img src="laboratorium.webp" alt="Laboratorium" width="500"><br>
+<a href="laboratorium.webp" download>⬇️ Download laboratorium.webp</a>
 
-## Laboratorium
-[![Laboratorium](laboratorium.webp)](laboratorium.webp)
+<h2>Gravkammer</h2>
+<img src="gravkammer.webp" alt="Gravkammer" width="500"><br>
+<a href="gravkammer.webp" download>⬇️ Download gravkammer.webp</a>
 
-## Gravkammer
-[![Gravkammer](gravkammer.webp)](gravkammer.webp)
+<h2>Blodløs tjener</h2>
+<img src="blodloes_tjener.webp" alt="Blodløs tjener" width="500"><br>
+<a href="blodloes_tjener.webp" download>⬇️ Download blodloes_tjener.webp</a>
 
-## Grev Varholm
-[![Grev Varholm](varholm.webp)](varholm.webp)
+<h2>Varholm</h2>
+<img src="varholm.webp" alt="Varholm" width="500"><br>
+<a href="varholm.webp" download>⬇️ Download varholm.webp</a>
