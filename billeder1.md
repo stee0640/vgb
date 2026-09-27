@@ -1,4 +1,4 @@
-# Billeder - første del
+# Billeder til Vampyrgrevens Borg - første del
 
 <h2>Borg</h2>
 <img src="borg.webp" alt="Borg" width="500"><br>
