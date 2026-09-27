@@ -1,7 +1,5 @@
 # Billeder til Vampyrgrevens Borg
 
-<a href="tronsal.webp" download>Download tronsal.webp</a>
-
 ## Borg
 [![Borg](borg.webp)](borg.webp)
 
